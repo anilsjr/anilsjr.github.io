@@ -11,3 +11,5 @@ Hello! I am [Anil Vishwakarma](https://github.com/anilsjr), a passionate develop
 Feel free to explore my projects and contributions. You can also connect with me on [GitHub](https://github.com/anilsjr).
 
 Thank you for visiting!
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8620043813842300"
+     crossorigin="anonymous"></script>
