@@ -3,7 +3,7 @@
 Hello! I am [Anil Vishwakarma](https://github.com/anilsjr), a passionate developer who enjoys working on various projects. Below is a list of my projects hosted on GitHub.
 
 ## Portfolio
-[anilvk.me/portfolio](https://anilsjr.github.io/portfolio)
+[anilvk.me/](https://anilsjr.github.io/)
 ## Projects
 
 - [anilsjr.github.io](https://github.com/anilsjr?tab=repositories): Personal website and blog.
